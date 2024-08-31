@@ -1,4 +1,4 @@
-# Splitwise Flutter Application
+# Split Flutter Full-Stack Application
 
 ## Overview
 
