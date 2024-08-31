@@ -61,3 +61,13 @@ The application uses a custom algorithm to minimize the number of transactions r
 - **Authentication:** The app uses Firebase Authentication for secure sign-in and user management.
 - **Firestore:** All user, group, and expense data are stored in Firebase Cloud Firestore, ensuring real-time synchronization across devices.
 - **Cloud Messaging:** Push notifications are handled through Firebase Cloud Messaging, keeping users informed of any updates or changes.
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+<p align="center">
+  <img src="assets/image1.png" alt="Screenshot 1" width="30%" />
+  <img src="assets/image2.png" alt="Screenshot 2" width="30%" />
+  <img src="assets/image3.png" alt="Screenshot 3" width="30%" />
+</p>
